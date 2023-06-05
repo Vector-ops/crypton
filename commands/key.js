@@ -10,7 +10,9 @@ const key = {
       {
         type: "input",
         name: "key",
-        message: "Enter API Key ".green + "https://www.coingecko.com",
+        message:
+          "Enter API Key ".green +
+          "https://www.coingecko.com  If you do not have an api key enter 'noKey'",
         validate: isRequired,
       },
     ]);
