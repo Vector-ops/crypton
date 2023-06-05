@@ -5,7 +5,6 @@ const symbol = {
   BCH: "Bitcoin-Cash",
   LTC: "Litecoin",
   EOS: "EOS",
-  BNB: "Binance-Coin",
   USDT: "Tether",
   XLM: "Stellar",
   ADA: "Cardano",
