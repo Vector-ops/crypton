@@ -1,4 +1,4 @@
-##### CRYPTON
+# CRYPTON
 
 Crypton is a commmand line tool to fetch cryptocurrency prices from coingecko.com
 
