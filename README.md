@@ -13,5 +13,5 @@ Crypton supports all cryptocurrencies listed on coingecko.com
   <li>crypton key show : show api key</li>
   <li>crypton key remove : remove api key</li>
   <li>crypton check price : check price coin. By default shows prices of Bitcoin, Ethereum, Ripple in USD</li>
-  <li>crypton check price --coin <coin> --cur <currency> : check price of coin in currency</li>
+  <li>crypton check price --coin &ltcoin&rt --cur &ltcurrency&rt : check price of coin in currency</li>
 </ul>
